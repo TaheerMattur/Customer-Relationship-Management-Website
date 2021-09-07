@@ -79,8 +79,9 @@ footer.footer {
 .legal {
     display: flex;
     flex-wrap: wrap;
-    color: black;
     background-color: #edeff0;
+    color: #000;
+    background-color: #edeff0;  
     justify-content: space-between;
     align-items: center;
     padding: 20px;
