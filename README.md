@@ -3,7 +3,7 @@
 
 ### * Do have a look at **NAVIGATION BAR** that has links to different pages like **PRODUCTS, PRICING, and LOGIN**
 * Have a look **PRODUCTS webpage** it has good content compared to other pages.
-* * Note : Click on **CUSTOMERS** will not work. It's webpage has isn't built yet.
+* * Note : Click on **CUSTOMERS** will not work. It's webpage isn't built.
 
 # **Features**
 * ### *Implemented almost everything using Flexbox and CSS-Grid*
