@@ -28,7 +28,7 @@ $("#search-icon").click(function () {
 // });
 
 // IFRAME RESIZER
-var iframe = document.getElementById("myIframe");
-iframe.onload = function() {
-    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-}
+// var iframe = document.getElementById("myIframe");
+// iframe.onload = function() {
+//     iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+// }
