@@ -346,7 +346,7 @@ section.headline.background-image1{
 }
 
 section.headline.background-image2{
-	background-image: url("/assets/background.jpg");
+	background-image: url("assets/background.jpg");
 	width: 100%;
 	height: 50vh;
 	background-repeat: no-repeat;
