@@ -1,0 +1,106 @@
+div.headlines{
+   text-align: center;
+   margin-top: 60px;
+   color: #242424;
+}
+
+div.headlines h2{
+   font-size: 1.5rem;
+   margin-bottom: 10px;
+ }
+
+/* LOGIN FORM */
+.log-form {
+    width: 400px;
+    margin: 4em auto;
+    padding: 3em 2em 2em 2em;
+    background: #fafafa;
+    border: 1px solid #ebebeb;
+    border-radius: 6px;
+    box-shadow: rgba(0,0,0,0.14902) 0px 1px 1px 0px,rgba(0,0,0,0.09804) 0px 1px 2px 0px;
+}
+
+.log-input {
+    font-size: 15px;
+    padding: 10px 10px 10px 5px;
+    margin-bottom: 45px;
+    display: block;
+    background: #fafafa;
+    border-radius: 6px;
+    width: 100%;
+    border-bottom: 0.5px solid #ff5621;
+}
+
+
+/* REMEMBER ME & FORGOT PASSWORD ---------------------------------*/
+/* IMPORTANT ONE */
+
+.validations {
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.validations span {
+    margin-left: 10px;
+    color:rgb(77, 80, 83);
+}
+
+.validations a {
+    color: rgb(77, 80, 83);
+}
+
+.validations a:hover {
+    color: #ff5621;
+}
+
+input[type="checkbox"] {
+    width: 18px;
+}
+
+.checkboxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+input[type="text"], input[type="password"] {
+    background: transparent;
+    border: none;
+    font-weight: 520;
+    letter-spacing: 0.1em;
+    height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}
+
+input:focus {
+    outline: none;
+}
+/* -------------------------------------------------------- */
+
+/* BUTTON */
+.btn-container {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-container.register {
+    margin-top: 10px;
+}
+
+.btn-container button {
+    padding: 0 20px;
+    min-width: 250px;
+    height: 40px;
+    background-color: #ff5621;
+    border-radius:7px;
+    cursor: pointer;
+    color: #fff;
+}
+
+
