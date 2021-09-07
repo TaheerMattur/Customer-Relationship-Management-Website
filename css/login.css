@@ -80,6 +80,7 @@ input[type="text"], input[type="password"] {
 input:focus {
     outline: none;
 }
+
 /* -------------------------------------------------------- */
 
 /* BUTTON */
@@ -103,4 +104,10 @@ input:focus {
     color: #fff;
 }
 
+.btn-container button:hover {
+	color: #fff;
+	background-color: #ec3b05 !important;
+	border: #ec3b05;
+	transition: all 0.3s ease-in-out;
+}
 
