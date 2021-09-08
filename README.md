@@ -5,7 +5,7 @@
 * Have a look on **PRODUCTS** webpage it has good content compared to other pages.
 * *Note : **CUSTOMERS** page isn't built yet.*
 
-# **Features**
+## **Features**
 * *Implemented almost everything using Flexbox and CSS-Grid*
 * *Hover effects on the icons*
 * *Navigation Bar Animation*
